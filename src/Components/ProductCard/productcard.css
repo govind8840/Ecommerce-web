@@ -1,0 +1,15 @@
+.cus-body{
+    color: black;
+}
+.cus-card img{
+    width:200px;
+    height: 200px;
+    margin: auto;
+}
+.cus-card{
+    margin: 10px 0px;
+    height: 420px;
+}
+.cus-body p:nth-child(1){
+    font-size: 14px;
+}

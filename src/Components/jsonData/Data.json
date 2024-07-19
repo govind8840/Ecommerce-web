@@ -1,0 +1,38 @@
+
+[
+    {
+      "id": 1,
+      "productimg": "https://www.jiomart.com/images/product/original/490001992/brooke-bond-red-label-strong-blend-tea-1-kg-product-images-o490001992-p490001992-0-202304281622.jpg?im=Resize=(420,420)",
+      "title": "Brooke Bond Red Label Strong Blend..",
+     "price":"300"
+
+    },
+    {
+        "id": 2,
+        "productimg": "https://www.jiomart.com/images/product/original/490001545/amul-gold-homogenised-standardised-milk-1-l-tetra-pak-product-images-o490001545-p490001545-0-202203170625.jpg?im=Resize=(420,420)",
+        "title": " Amul Butter 500 g (Carton) ",
+       "price":"200"
+  
+      },
+      {
+        "id": 3,
+        "productimg":"https://www.jiomart.com//images/product/original/491334852/good-life-kachi-ghani-mustard-oil-1-l-pouch-product-images-o491334852-p491334852-0-202204281552.jpg?im=Resize=(310,310)",
+        "title": " Good Life Kachi Ghani Mustard Oil 1.",
+       "price":"100"
+  
+      },
+      {
+        "id": 4,
+        "productimg": "https://www.jiomart.com//images/product/original/491409955/kellogg-s-fruit-nut-seeds-muesli-750-g-product-images-o491409955-p491409955-0-202403291647.jpg?im=Resize=(310,310)",
+        "title": "Brooke Bond Red Label Strong Blend..",
+       "price":"140"
+  
+      }
+      
+
+      
+
+      
+
+  ]
+  
