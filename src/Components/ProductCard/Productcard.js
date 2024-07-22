@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import './productcard.css'
 // import data from '../jsonData/Data.json';
+
 import  { useState } from 'react';
 import axios from 'axios';
 
@@ -44,6 +45,9 @@ const Productcard = () => {
                         )
                     })
                 }
+
+
+             
               
     </>
   )

@@ -8,12 +8,9 @@ import Resetpassword from './Components/Resetpassword/Resetpassword';
 // import Footer from './Components/Footer/Footer';
 import MainPage from './MainPage/MainPage';
 import {Route, Routes } from 'react-router-dom';
-
-
 function App() {
   return (
     <>
-  
       <Routes>
         <Route path="/" element={<MainPage/>} />
         <Route path="/login" element={<Login/>} />
